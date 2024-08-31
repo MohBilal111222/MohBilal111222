@@ -1,12 +1,20 @@
-                                                          A PASSIONATED SOFTWARE ENGINEER!
+                                                    A PASSIONATED SOFTWARE ENGINEER!
 Hi 👋, I'm  Mohammad Bilal
 
-A passionate frontend developer from Pakistan 
+A passionate frontend developer from Pakistan .
 
-🔭 I’m currently Learning on ReactJs
+- 👀 I’m interested in AI.
+- 🌱 I’m currently learning Web and Mobile App Development.
+- 💞 I’m looking to collaborate on @Saylani-Welfare.
+- 🔭 I’m currently Learning on ReactJs.
 
-
-
+   SKILLS:
+1:Html
+2:Css
+3:Javascript
+4:Typescript
+5:Bootstrap
+6:Firebase
   
 
 <!---
