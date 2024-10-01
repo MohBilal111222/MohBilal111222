@@ -6,7 +6,6 @@ A passionate frontend developer from Pakistan .
 - 👀 I’m interested in AI.
 - 🌱 I’m currently learning Web and Mobile App Development.
 - 💞 I’m looking to collaborate on @Saylani-Welfare.
-- 🔭 I’m currently Learning on ReactJs.
 
    SKILLS:
 1:Html
@@ -15,7 +14,9 @@ A passionate frontend developer from Pakistan .
 4:Typescript
 5:Bootstrap
 6:Firebase
-  
+7:ReactJs
+8:Tailwand
+9:Material UI
 
 <!---
 MohBilal111222/MohBilal111222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
