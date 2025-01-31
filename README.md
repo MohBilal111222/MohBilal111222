@@ -1,7 +1,7 @@
                                                     A PASSIONATED SOFTWARE ENGINEER!
 Hi 👋, I'm  Mohammad Bilal
 
-A passionate frontend developer from Pakistan .
+A passionate frontend developer .
 
 - 👀 I’m interested in AI.
 - 🌱 I’m currently learning Web and Mobile App Development.
